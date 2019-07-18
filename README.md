@@ -1,1 +1,1 @@
-# IMB_HR_Attrition_predicton
+# IMB_HR_Attrition_prediction
